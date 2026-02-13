@@ -1,5 +1,5 @@
 # Retrieval Augumented Generation
-🏗️ Architecture
+## 🏗️ Architecture
 
 GenFit follows a modular Retrieval-Augmented Generation (RAG) architecture that separates user interaction, semantic retrieval, and LLM-based reasoning.
 Each layer is independently scalable and communicates through REST-based services.
